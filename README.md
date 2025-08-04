@@ -3,7 +3,7 @@
 This project focuses on preparing customer data for further analysis by applying essential preprocessing steps using Python. The dataset includes demographic and behavioral information about customers, and the preprocessing ensures the data is clean, consistent, and analysis-ready.
 
 ## Datast Used
-- <a href="[(https://github.com/Shifanaks/Customer-Personality-Analysis-Preprocessing--python/blob/main/Customer%20Personality%20Analysis.csv)]">Dataset</a>
+- <a href="https://github.com/Shifanaks/Customer-Personality-Analysis-Preprocessing--python/blob/main/Customer%20Personality%20Analysis.csv">Dataset</a>
 
 ## What I Have Done in This Project:
  1. Checked Data Types: Verified each column's data type to ensure it matches the nature of the data (e.g., numerical, categorical, date).
