@@ -13,3 +13,8 @@ This project focuses on preparing customer data for further analysis by applying
  5. Checked for Duplicates: Ensured no duplicate records exist in the dataset to maintain integrity.
  6. Explored Unique Values: Reviewed unique entries in categorical columns to understand feature diversity and prepare for encoding.
 
+## Preprocessing Code
+- <a href="https://github.com/Shifanaks/Customer-Personality-Analysis-Preprocessing--python/blob/main/Customer_Personality_Analysis.ipynb">Python Code</a>
+
+## Cleaned Dataset
+- <a href="https://github.com/Shifanaks/Customer-Personality-Analysis-Preprocessing--python/blob/main/preprocessed_dataset.csv">Cleaned Dataset</a>
